@@ -18,7 +18,7 @@ end
 
 def monopoly_with_third_tier
 	monopoly= {
-		:railroads = {
+		railroads: {
 			pieces: 4,
 			names: {
 				reading_railroad: {},
